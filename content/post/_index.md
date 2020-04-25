@@ -1,14 +1,29 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: false
 view: 2
+title: Hey Guys
+subtitle: I really enjoy doing this
+date: 2020-04-25T23:23:07.168Z
+summary: |-
+  eghiowoihgwehoiwgehoigew;
 
-# Optional header image (relative to `static/img/` folder).
+  age
+
+  jj
+
+  gewi
+
+  gewh
+
+  iegw
+
+  ia
 header:
   caption: ""
   image: ""
+featured: false
+image:
+  preview_only: false
+  filename: ben-avatar.png
 ---
+But maybe not that
